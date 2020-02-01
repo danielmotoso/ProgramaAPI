@@ -1,0 +1,7 @@
+Execute o banco  de dados "HSQLDB"
+Comando: java -jar lib/hsqldb.jar &
+
+Execute o banco  de dados "APLICAÇÃO" 
+Comandos: 
+Instalar: mvnw clean install
+Após o programa tiver instalado, execute o comando: mvnw spring-boot:run
